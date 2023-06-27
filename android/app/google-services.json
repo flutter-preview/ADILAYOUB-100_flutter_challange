@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684464882131",
+    "project_id": "gderiveadilayoub",
+    "storage_bucket": "gderiveadilayoub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684464882131:android:6508a703cf144d5521ef26",
+        "android_client_info": {
+          "package_name": "com.example.eng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684464882131-tt577rottngab0uer2fm2p943jonet1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGmSwoiIhujU3ldkXL0k6-jYlyL02rYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684464882131-tt577rottngab0uer2fm2p943jonet1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
