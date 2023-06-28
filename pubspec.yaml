@@ -8,31 +8,28 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  google_fonts:
-  eva_icons_flutter:
-  get: ^4.2.0
-  google_sign_in: 
-  firebase_auth: 
-  cloud_firestore: 
-  firebase_core: 
-  firebase_storage:
+  google_fonts: ^5.1.0
+  eva_icons_flutter: ^3.1.0
+  get: ^4.6.5
+  google_sign_in: ^6.1.4
+  firebase_auth: ^4.6.3
+  cloud_firestore: ^4.8.2
+  firebase_core: ^2.14.0
+  firebase_storage: ^11.2.4
   file_picker: ^4.5.0
-  mime:
-   #type of the file 
-  path_provider:
-  uuid: 
-  flutter_image_compress:
-   # compress images to be send to the firebase
-  flutter_ffmpeg:
-   # compress the videos with 
-  video_compress: 
-  url_launcher:
-  audioplayers:
-  chewie: #video playing 
-  video_player: 
-  flutter_downloader: ^1.7.1
-  permission_handler: 
-
+  mime: ^1.0.4
+  path_provider: ^2.0.15
+  uuid: ^3.0.7
+  flutter_image_compress: ^2.0.3
+  flutter_ffmpeg: ^0.4.2
+  video_compress: ^3.1.2
+  url_launcher: ^6.1.11
+  audioplayers: ^0.18.3
+  chewie: ^1.5.0
+  video_player: ^2.6.1
+  flutter_downloader: ^1.10.4
+  permission_handler: ^10.3.0
+ 
 dev_dependencies:
   flutter_test:
     sdk: flutter
